@@ -1,3 +1,7 @@
 111
 dev 修改
-main 修改
+<<<<<<< HEAD
+main feature1修改
+=======
+
+>>>>>>> feature1
